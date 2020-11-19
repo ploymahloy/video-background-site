@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="194.1223mm"
+   height="118.91816mm"
+   viewBox="0 0 194.1223 118.91816"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname=".svg">
+   sodipodi:docname="logo_1.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,18 +23,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54690825"
-     inkscape:cx="361.76726"
-     inkscape:cy="478.59329"
+     inkscape:zoom="0.66100644"
+     inkscape:cx="421.08936"
+     inkscape:cy="144.96519"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1252"
+     inkscape:window-width="1280"
      inkscape:window-height="755"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -50,53 +54,54 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-27.218596,-12.808751)">
     <rect
-       style="fill:#ff0000;stroke-width:0.200298"
+       style="fill:#ff0000;stroke-width:0.201228"
        id="rect14"
        width="194.1223"
-       height="117.82166"
-       x="13.831985"
-       y="56.980534" />
+       height="118.91816"
+       x="27.218596"
+       y="12.808751" />
     <rect
        style="fill:#d40000;stroke-width:0.264583"
        id="rect16"
        width="14.659964"
        height="41.808041"
-       x="44.52285"
-       y="90.131622" />
+       x="57.909458"
+       y="45.959854" />
     <rect
        style="fill:#d40000;stroke-width:0.264583"
        id="rect16-9"
        width="14.659964"
        height="41.808041"
-       x="103.93944"
-       y="-72.668495"
+       x="59.76767"
+       y="-86.055107"
        transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;"
-       x="79.339928"
-       y="108.36674"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.72654"
+       y="64.194969"
        id="text86"><tspan
          sodipodi:role="line"
          id="tspan84"
-         x="79.339928"
-         y="108.36674"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93329999999999913px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.264583;"
+         x="92.72654"
+         y="64.194969"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.264583"
          dx="0">Emergency </tspan><tspan
          sodipodi:role="line"
-         x="79.339928"
-         y="129.53336"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93329999999999913px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.264583;"
+         x="92.72654"
+         y="85.361595"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.264583"
          id="tspan88">Food Service</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16.93329999999999913px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:131.797;stroke-width:0.264583;fill:#f9f9f9;"
+       style="font-size:16.9333px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:131.797;fill:#f9f9f9;stroke-width:0.264583"
        x="84.177734"
        y="151.90695"
        id="text92"
-       transform="translate(-34.348388,-7.7404818)"><tspan
+       transform="translate(-20.961778,-51.912265)"><tspan
          x="84.177734"
          y="151.90695"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#f9f9f9;stroke-width:0.264583">Your pandemic meat supplier</tspan></tspan></text>
