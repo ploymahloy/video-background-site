@@ -1,57 +1,43 @@
+html,
 body {
-    margin: 0;
-    padding: 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-}
-
-.banner {
-    margin: 0 auto;
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    float: left;
-} 
-
-.banner video {
-    top: 0;
-    left: 0;
-    object-fit: cover;
-    width: 100vw;
-    height: 100vh;
-}
-
-/* DEBUG */
-.overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
     height: 100%;
-    background: rgba(0, 0, 255, .5);
-}
-
-.banner #Img {
-    position: absolute;
-    z-index:300000;
-
-
-    /* SVG has space on sides */
-    border: 3px solid black;
+    overflow: hidden;
 }
 
 video {
-    -webkit-animation: fadein 1s linear 1 normal forwards;
+    width: 100vw;
+    position: absolute;
 }
 
-@-webkit-keyframes fadein {
-    from {
-       opacity: 0;
-    }
-    to {
-        opacity: .6;
-    }
+#logo {
+    position: absolute;
+    width: 30%;
+    height: auto;
+    top: 15px;
+    left: 15px;
+
+    filter:opacity(80%);
+    z-index: 4;
+}
+
+button {
+    position: absolute;
+    top: 380px;
+    left: 125px;
+
+    border-radius: 8px;
+    border: 3px solid whitesmoke;
+    color: whitesmoke;
+    background-color: transparent;
+    outline: none;
+
+    text-transform: lowercase;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover {
+    background-color: whitesmoke;
+    border: 3px solid black;
+    color: black;
 }
